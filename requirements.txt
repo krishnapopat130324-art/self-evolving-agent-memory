@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-community
+chromadb
+sqlalchemy
+ollama
+duckduckgo-search
+requests
+python-dotenv

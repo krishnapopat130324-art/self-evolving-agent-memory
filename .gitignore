@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+venv/
+env/
+
+# Data (don't upload your local database)
+data/*.db
+data/chroma_db/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
